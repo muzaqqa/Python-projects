@@ -1,4 +1,5 @@
 Face Detection Using OpenCV
+
 This project demonstrates how to use OpenCV, a powerful computer vision library, to create a simple face detection system. The program works by using a pre-trained face detection model called a Haar Cascade, which is essentially a file containing instructions on how to recognize patterns that look like a face.
 
 Here’s how it works:
